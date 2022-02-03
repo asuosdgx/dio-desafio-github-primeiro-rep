@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-rep
+# Primeiro Repositório GitHub
 
-## Links úteis
+## Projeto Dio Eduzz
 Em breve
